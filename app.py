@@ -1,7 +1,7 @@
 """
 app.py
 ------
-Owner: TBD
+Owner: Syed Ibrahim Saleem
 
 What this file does:
     1. Streamlit web interface for MemeRAG
